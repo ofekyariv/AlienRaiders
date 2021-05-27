@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1057306841895",
+    "project_id": "alian-raiders",
+    "storage_bucket": "alian-raiders.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057306841895:android:c2acaaf91dd850e2e9cf02",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057306841895-skvm8iejs310ea8b7v0865ee65uujc8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqoVmTDDt6z07b8JQL7TEns5_A_nTPC70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057306841895-skvm8iejs310ea8b7v0865ee65uujc8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
